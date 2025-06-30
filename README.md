@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 🌸 Iris Flower Classification System
 📊 Machine Learning Project for Iris Species Classification
 
@@ -107,4 +108,6 @@ scikit-learn for ML tools.
 
 🧠 Author
 Built with ❤️ for ML and Data Science learning.
+
+=======
 
