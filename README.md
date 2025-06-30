@@ -5,7 +5,7 @@
 This project aims to develop a complete Iris flower classification system using Machine Learning (ML) techniques. It supports end-to-end processing from data exploration and visualization to model training and evaluation, with a focus on interpretability and reproducibility.
 
 📁 Dataset
-Source: Iris Dataset (UCI ML Repository)
+Source: Kaggle
 Format: CSV
 Columns:
 
@@ -101,12 +101,10 @@ Add SHAP/LIME for model interpretability.
 Open-source for educational and research purposes.
 
 🙏 Acknowledgements
-UCI Machine Learning Repository for the dataset.
-
+Kaggle
+CodeAlpha
 scikit-learn for ML tools.
 
 🧠 Author
 Built with ❤️ for ML and Data Science learning.
-
-🔗 [GitHub Repo Link] | 📧 Contact for Contributions
 
